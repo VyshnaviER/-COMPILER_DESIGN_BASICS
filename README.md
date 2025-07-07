@@ -82,3 +82,7 @@ The output will show:
 # Conclusion
 
 This program provides a clear understanding of how lexical analyzers function.
+
+# Output
+
+![Image](https://github.com/user-attachments/assets/6a982e4c-ddd4-4d3b-b1e1-344c274186a6)
