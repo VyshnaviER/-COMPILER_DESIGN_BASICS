@@ -64,12 +64,19 @@ int main() {
 The output will show:
 
 [Keyword    : int]
+
 [Identifier : main]
+
 [Keyword    : int]
+
 [Identifier : a]
+
 [Operator   : =]
+
 [Identifier : 5]
+
 [Keyword    : return]
+
 [Identifier : a]
 
 # Conclusion
